@@ -1,6 +1,14 @@
 ## SpeechifyClone
 
-SpeechifyClone is a full‑stack web application that converts text and documents into natural‑sounding speech, similar to Speechify. It uses a React + Vite + TypeScript frontend with Tailwind CSS and a Node.js + Express backend that integrates with a TTS provider (OpenAI TTS by default).
+SpeechifyClone is a full‑stack web application that converts text and documents into natural‑sounding speech, similar to [Speechify](https://github.com/SpeechifyInc). It uses a React + Vite + TypeScript frontend with Tailwind CSS and a Node.js + Express backend that integrates with a TTS provider (OpenAI TTS by default).
+
+### Documentation
+
+| Document | Description |
+|----------|-------------|
+| [**docs/DESIGN.md**](docs/DESIGN.md) | **Design document** — Architecture, data flow, tech stack, and how the project is structured. Start here to understand the project. |
+| [docs/API.md](docs/API.md) | Backend API reference — Endpoints, request/response formats, and errors. |
+| [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) | How to get set up, where to change what, and code conventions. |
 
 ### Project Structure
 
